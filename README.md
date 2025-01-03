@@ -1,2 +1,2 @@
 ﻿# budget_app
-run 'python start.py'
+run `python start.py`
